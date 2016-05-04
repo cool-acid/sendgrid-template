@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/cool-acid/sendgrid-template/issues"
   },
-  "homepage": "https://github.com/cool-acid/sendgrid-template"
+  "homepage": "https://github.com/cool-acid/sendgrid-template",
+  "dependencies": {
+    "sendgrid": "^2.0.0"
+  }
 }
