@@ -1,6 +1,6 @@
 {
   "name": "sendgrid-template",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Shorthand module for sending transactional emails using sendgrid templates.",
   "main": "index.js",
   "repository": {
