@@ -1,0 +1,23 @@
+{
+  "name": "sendgrid-template",
+  "version": "1.0.0",
+  "description": "Shorthand module for sending transactional emails using sendgrid templates.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cool-acid/sendgrid-template.git"
+  },
+  "keywords": [
+    "sendgrid",
+    "template"
+  ],
+  "author": "Eduardo Vaugier <eduardo@vaugier.mx> (http://vaugier.mx)",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/cool-acid/sendgrid-template/issues"
+  },
+  "homepage": "https://github.com/cool-acid/sendgrid-template",
+  "dependencies": {
+    "sendgrid": "^2.0.0"
+  }
+}
